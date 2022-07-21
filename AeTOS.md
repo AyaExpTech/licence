@@ -1,5 +1,7 @@
 # AeTOS ver4.2.4
 
+![代替テキスト](https://raw.githubusercontent.com/AyaExpTech/Logo/main/01_Logo.png)
+
 ## 概要
 綾急技研および綾坂こと名義のすべての配布された制作物には規約として"AeTOS"が適用されます。
 > 綾急技研・綾坂ことが配布した2022年1月13日以前の制作物に
